@@ -71,3 +71,4 @@ sass:
 gems: [jekyll-paginate]
 kramdown:
   math_engine: mathjax
+plugins: [jekyll-paginate]

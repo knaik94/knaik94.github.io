@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Blog moved to knaik.github.io"
-date:   2023-07-07
-categories: github
----
-This blog has moved to knaik.github.io
